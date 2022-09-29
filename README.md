@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/f7omQNmgiyjj5sffvZ/giphy.gif" width="400"/>
+  
 </div>
+<img src= "https://img.shields.io/badge/LinkedIn-blue" width = "100"/>
