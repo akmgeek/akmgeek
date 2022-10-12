@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/akmgeek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akmgeek" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/akm geek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akm geek" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCNnuSo4TToWG1b6C7oIBedA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akm geek" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
